@@ -1,11 +1,11 @@
-body{
-    color: brown;
-}
-
-p{
+h1{
     color: blue;
 }
 
-.ft{
-    color: red;
+label{
+    color: brown;
+}
+
+input{
+    color: watermark;
 }
