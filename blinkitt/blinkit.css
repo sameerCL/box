@@ -1,0 +1,33 @@
+.nav{
+    padding: 10px 20px;
+    background-color: aliceblue;
+    display: flex;
+}
+
+.login-btn{
+    margin-left: 150px;
+    border: none;
+
+}
+
+.cart-btn{
+    padding: 10px;
+    background-color: greenyellow;
+}
+
+.search-bar{
+    border: none;
+    margin: 20px;
+}
+
+.search-bar input{
+    width: 500px;
+    padding: 5px 10px;
+}
+
+
+
+
+
+
+
